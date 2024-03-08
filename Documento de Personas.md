@@ -55,3 +55,53 @@ With that we intend to group the people as:
 **High experience:** People who use whatsapp and have more than 3 devices.
 
 **Map based application experienced:** People who uses Google maps or any other application that has a map based interface to locate an ubication.
+
+3. **Ensure everyone accepts the hypothesis**
+
+**a)Questions asked**
+
+**Data of personas:** Users mainly disliked having interacted with a map that lacks locations or points of location characteristic of their area or place where they live. They needed to be located with strategic points of reference that are placed on the map such as logos or names of shopping centers, names or visualization of green areas such as parks, differentiating the colors of what is a private and a public location or colors to separate streets from houses.
+
+**Data for situations:** In a desktop registration environment, users who lacked a mouse and had only a laptop trackpad found it difficult to scroll to find the other fields to fill in the registration form.
+
+**Data for Scenarios:**In order for users to achieve successful registration to be able to carry out the vote we need to improve 2 main points which are the overview of the map to be accessed and the way the scroll sidebar is displayed for users to visualize where they can interact with the page to be able to position themselves and find the different fields to fill in to advance and complete the registration.
+
+**b) Methods used:**
+
+**Qualitative data collection:** Via google forms we captured some qualitative data on the forms about the users level of concern with the privacy with which their data was handled, how pleasant was the interaction with the map and the reasonableness regarding the amount of information requested on the clients form.
+
+**c) Documents produced:**
+
+**Descriptions of categories:**
+
+**Inexperienced**: People who don't use whatsapp.
+
+**Medium experience:** People who use whatsapp and don't have more than 3 devices.
+
+**High experience:** People who use whatsapp and have more than 3 devices.
+
+**Map based application experienced:** People who uses Google maps or any other application that has a map based interface to locate an ubication.
+
+4. **Establish a number of personas**
+
+**a)Questions asked**
+
+**Does the initial grouping hold?**
+
+We decided to group the citizens who voted by age instead of experience because the initial grouping doesn't really helps to determine the problems of our target groups.
+
+**Are there other groups to consider?** There are other groups like the district groups.
+
+**Are all equally important?** The users with an age of 45 - 55 years old are more important than the rest.
+
+**b)Methods used:**
+
+We can categorize the users on age groups:
+
+**Elderly users:** 60+ years.
+
+**Middle-aged Adults users :** users with an age between the 40 - 59 years range.
+
+**Adults users:** 20 - 39 years
+
+**Young users**: 10 - 19 years.
