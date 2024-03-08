@@ -105,4 +105,3 @@ We can categorize the users on age groups:
 **Adults users:** 20 - 39 years
 
 **Young users**: 10 - 19 years.
-
