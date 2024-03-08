@@ -105,3 +105,26 @@ We can categorize the users on age groups:
 **Adults users:** 20 - 39 years
 
 **Young users**: 10 - 19 years.
+
+**Construct and describe your personas**
+
+a)Questions asked
+
+Middle-aged Adults users:
+Body (name, age, picture): 
+	Name: Tomás
+	Age: 50 y/o
+	Location: Merida, Yucatan
+	Level of technical comfort: Low
+	Picture:
+	
+
+Backstory:
+Arturo is a professional of the sales and customer service area, with an extrovert attitude he developed well in this area and has been dedicated to his job. He also seems worried about his environment and often integrates on neighborhood activities.
+
+Existing practices:
+When the “presupuesto participativo” program came out he went through the process of registering to vote, however he faced some difficulties and had to ask for help in some areas of the citizen register form.
+
+Motivations and frustrations:
+He went through problems with the use of the map, needing to ask some third party to help him out on that section of the form.
+
