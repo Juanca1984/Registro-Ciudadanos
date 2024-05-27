@@ -36,7 +36,7 @@ Flutter se utiliza para desarrollar aplicaciones móviles, web y de escritorio q
 - Computadora con acceso a internet
 - Cuenta en Figma
 - Crear una cuenta en Function 12
-- Descargar Flutter: [Link para tutorial de cómo descargar Flutter]
+- Descargar Flutter: https://www.youtube.com/watch?v=BTubOBvfEUE
 
 ### Objetivo de la sesión práctica
 En esta sesión práctica se mostrará el uso de una herramienta para traducir diseños estáticos de UI en Figma a código funcional en el framework Flutter. Esto con el objetivo de mostrarles a los estudiantes una forma de automatizar sus procesos de convertir su diseño a código.
@@ -63,4 +63,6 @@ Luego entraremos a la plataforma Function 12. Al entrar veremos la siguiente bar
 
 ### Paso 5: Descomprimir el archivo .zip
 ### Paso 6: Abrir el proyecto descomprimido en VS Code
-(Video)
+https://youtu.be/2MI9S0DQ2P0
+### Paso 7: Resultado
+Usando un emulador de Iphone 14 para mostrar cómo se tradujo la UI: El uso del emulador va más allá del objetivo de la sesión. Es solo para mostrar cómo se tradujo la interfaz de usuario al código.
