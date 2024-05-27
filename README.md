@@ -66,4 +66,4 @@ Luego entraremos a la plataforma Function 12. Al entrar veremos la siguiente bar
 https://youtu.be/2MI9S0DQ2P0
 ### Paso 7: Resultado
 Usando un emulador de Iphone 14 para mostrar cómo se tradujo la UI: El uso del emulador va más allá del objetivo de la sesión. Es solo para mostrar cómo se tradujo la interfaz de usuario al código.
-<span>![</span><span>Emulador con el resultado</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Juanca1984/Registro-Ciudadanos/Sesión-Práctica/image.png</span><span>)</span>
+<span>![</span><span>Emulador con el resultado</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/Juanca1984/Registro-Ciudadanos/image.png</span><span>)</span>
